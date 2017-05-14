@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sarthi</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="rating_sending">Sending...</string>
+    <string name="ratings">Ratings</string>
+    <string name="write_here">Write here...</string>
+    <string name="send">Send</string>
+    <string name="title_activity_ride_details">RideDetailsActivity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

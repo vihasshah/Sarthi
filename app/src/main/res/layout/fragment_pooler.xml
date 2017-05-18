@@ -358,7 +358,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.8"
-                android:text="Price"
+                android:text="Licence No"
                 android:textSize="14dp" />
 
             <EditText
@@ -366,7 +366,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1.2"
-                android:hint="write price..."
+                android:hint="write licence no..."
                 android:textSize="17dp" />
 
         </LinearLayout>
@@ -387,7 +387,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.8"
-                android:text="Price"
+                android:text="Car No"
                 android:textSize="14dp" />
 
             <EditText
@@ -395,7 +395,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1.2"
-                android:hint="write price..."
+                android:hint="write car no..."
                 android:textSize="17dp" />
 
         </LinearLayout>
@@ -416,7 +416,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.8"
-                android:text="Price"
+                android:text="Car Model"
                 android:textSize="14dp" />
 
             <EditText
@@ -424,7 +424,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1.2"
-                android:hint="write price..."
+                android:hint="write car model..."
                 android:textSize="17dp" />
 
         </LinearLayout>

@@ -154,7 +154,8 @@ public class SignupActivity extends AppCompatActivity {
 
                     String jsonRequest = String.valueOf(object);
 //                    String URL = "http://development.ifuturz.com/core/FLAT_TEST/stone_galary/admin/webservice.php";
-                    String URL = "http://www.vnurture.in/pro/registration.php";
+//                    String URL = "http://www.vnurture.in/pro/registration.php";
+                    String URL = "http://rapidans.esy.es/project/registration.php";
                     new WebserviceCall(SignupActivity.this, URL, jsonRequest, "Loading...", true, new AsyncResponse() {
                         @Override
                         public void onCallback(String response) {

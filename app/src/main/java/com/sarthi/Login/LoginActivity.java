@@ -97,7 +97,8 @@ public class LoginActivity extends AppCompatActivity {
 
                     String jsonRequest = String.valueOf(object);
 //                    String URL = "http://development.ifuturz.com/core/FLAT_TEST/stone_galary/admin/webservice.php";
-                    String URL = "http://www.vnurture.in/pro/login.php";
+//                    String URL = "http://www.vnurture.in/pro/login.php";
+                    String URL = "http://rapidans.esy.es/project/login.php";
                     new WebserviceCall(LoginActivity.this, URL, jsonRequest, "Loading...", true,new AsyncResponse() {
 
                         @Override
